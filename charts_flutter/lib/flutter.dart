@@ -157,6 +157,7 @@ export 'package:charts_common/common.dart'
         TickSpec,
         TimeFormatterSpec,
         TypedAccessorFn,
+        TimeZoneAwareDateTimeFactory,
         UTCDateTimeFactory,
         ViewMargin,
         VocalizationCallback;
